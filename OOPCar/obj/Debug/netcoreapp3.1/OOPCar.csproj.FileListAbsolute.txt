@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\bin\Debug\netcoreapp3.1\OOPCar.exe
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\bin\Debug\netcoreapp3.1\OOPCar.deps.json
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\bin\Debug\netcoreapp3.1\OOPCar.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\bin\Debug\netcoreapp3.1\OOPCar.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\bin\Debug\netcoreapp3.1\OOPCar.dll
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\bin\Debug\netcoreapp3.1\OOPCar.pdb
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\obj\Debug\netcoreapp3.1\OOPCar.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\obj\Debug\netcoreapp3.1\OOPCar.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\obj\Debug\netcoreapp3.1\OOPCar.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\obj\Debug\netcoreapp3.1\OOPCar.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\obj\Debug\netcoreapp3.1\OOPCar.dll
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\obj\Debug\netcoreapp3.1\OOPCar.pdb
+C:\Users\opilane\source\repos\TITpe21\OOPCar\OOPCar\obj\Debug\netcoreapp3.1\OOPCar.genruntimeconfig.cache
